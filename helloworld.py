@@ -3,7 +3,7 @@ class Hello_world:
         self.name =name
 
     def hello_world_def(self):
-        print("hello world"+self.name)
+        print("hello world "+self.name)
 
 a=Hello_world("lakshman")
 
