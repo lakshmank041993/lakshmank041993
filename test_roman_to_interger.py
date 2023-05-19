@@ -9,13 +9,13 @@ class TestRomeToInterger(unittest.TestCase):
         self.assertEqual(Roman_to_interger.convert(self,"X"),10,"value doesnot match expected is 10") 
     
     def test_3(self):
-        self.assertEqual(Roman_to_interger.convert(self,"LVIII"),58,"value doesnot match expected is 10")
+        self.assertEqual(Roman_to_interger.convert(self,"LVIII"),58,"value doesnot match expected is 58")
     
     def test_4(self):
-        self.assertEqual(Roman_to_interger.convert(self,"MCMXCIII"),1993,"value doesnot match expected is 10")
+        self.assertEqual(Roman_to_interger.convert(self,"MCMXCIII"),1993,"value doesnot match expected is 1993")
 
     def test_5(self):
-        self.assertEqual(Roman_to_interger.convert(self,"MCMXCIII"),1993,"value doesnot match expected is 10")
+        self.assertEqual(Roman_to_interger.convert(self,"MCMXCIV"),1994,"value doesnot match expected is 1994")
 
 if __name__=='__main__':
 	unittest.main()
