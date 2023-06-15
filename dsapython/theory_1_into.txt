@@ -1,0 +1,77 @@
+data structures are divided into two types 
+1 linear D.S 
+2, non linear D.structures
+
+
+1 linear
+expample
+array 
+linked linked list
+stack -> follow specific order of option
+queue -> order of operation is fifo
+matrix -> 
+
+
+non linear ds 
+example
+binary tree
+heap => 
+hash tables 
+graph
+
+
+
+
+python specific ds 
+
+list 
+tuper
+dict
+set
+
+
+data structures can be further divided into 2 types in python
+
+bultin  and user defined 
+
+
+built in 
+list 
+tuper
+dict
+set
+
+user defined 
+array 
+linked linked list
+stack -> follow specific order of option
+queue -> order of operation is fifo
+matrix
+binary tree
+heap => 
+hash tables 
+graph
+
+
+----------------------------------------------------------------------------------------
+list 
+
+
+list is a mutable sequence which can have homogenius and hetrogeneus data 
+list in pyhton is ordered and have a definite count 
+list a usefull to preserving data and re-iterarating data 
+
+
+how to create a list in pyhton 
+list = [1, 3 , 'anc',{'abce'}]
+
+------------------------------------------------------
+negitive index 
+
+find the last 3rd element 
+
+#
+tupple once inserted that cannot be changed
+tupples are mutable
+
+
